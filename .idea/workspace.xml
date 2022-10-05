@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dfb91db-65fa-485e-9e37-87b7a08f0ca3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fila.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PacoteFilaEstruturadeDados/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PacoteFilaEstruturadeDados/FilaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PacoteFilaEstruturadeDados/No.java" afterDir="false" />
-    </list>
+    <list default="true" id="9dfb91db-65fa-485e-9e37-87b7a08f0ca3" name="Changes" comment="Projeto Fila e seus metodos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +33,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -77,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665005340092</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto Fila e seus metodos">
+      <created>1665012448447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665012448447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto Fila e seus metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto Fila e seus metodos" />
   </component>
 </project>
